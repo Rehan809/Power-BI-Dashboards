@@ -1,7 +1,5 @@
 ## 🚆 Indian Railways Dashboard
 
-![Indian Railways Dashboard](assets/indian-railways-preview.jpeg)
-
 **Description:**  
 The Indian Railways Dashboard visualizes train travel data, focusing on **duration, distance, train types, and timings**. It uses multiple charts and maps to provide a clear view of departure & arrival trends across stations.
 
